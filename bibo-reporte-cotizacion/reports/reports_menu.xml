@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <report
+            string="Cotizacion Parcialidad"
+            id="action_report_cotizacion_parcialidad"
+            model="stock.picking"
+            report_type="qweb-pdf"
+            name="bibo-reporte-cotizacion.report_cotizacion_parcialidad"
+            file="bibo-reporte-cotizacion.report_cotizacion_parcialidad"
+        />
+
+
+<!--- string="Cotizacion Parcialidad"               =Nombre del reporte  -->
+<!--- id="action_report_cotizacion_parcialidad"     =Cualquier ID  -->
+<!--- model="stock.picking"                         =Nombre del modelo del que se hereda  -->
+<!--- name="bibo-master.report_cotizacion_parcialidad  =Modulo.Nombrereporte  -->
+<!--- file="bibo-master.report_cotizacion_parcialidad  =Modulo.Idtemplete  -->
+    </data>
+</odoo>

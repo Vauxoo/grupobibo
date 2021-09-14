@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+        <record id="bi_view_discount_on_partner" model="ir.ui.view">
+            <field name="name">bi.view.discount.on.partner</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="account.view_partner_property_form"/>
+            <field name="arch" type="xml">
+                <data>
+                    <xpath expr="//field[@name='property_payment_term_id']" position="before">
+                        <field name="dicount_in_per"/>
+                    </xpath>
+                                    </data>
+            </field>
+        </record>
+
+
+  </data>
+</openerp>
+        
