@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<odoo>
+  <record model="ir.actions.report" id="studio_customization.asientos_contables_r_ab8081f8-4176-4de7-bed9-0cb45b979c75" context="{'studio': True}">
+    <field eval="False" name="attachment"/>
+    <field eval="False" name="attachment_use"/>
+    <field ref="account.model_account_move" name="binding_model_id"/>
+    <field name="binding_type">report</field>
+    <field eval="[(6, 0, [])]" name="groups_id"/>
+    <field name="model">account.move</field>
+    <field eval="False" name="multi"/>
+    <field name="name">Asientos contables Reporte</field>
+    <field name="report_name">studio_customization.report_43166804-5091-4f21-807d-7f775bb6ee3e</field>
+    <field name="report_type">qweb-pdf</field>
+  </record>
+</odoo>
