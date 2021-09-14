@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <report
+            string="Reporte Unificado de Operaciones"
+            id="action_report_reporte_operacion_unificado"
+            model="mrp.production"
+            report_type="qweb-pdf"
+            name="bibo-reporte-unificado.report_operacion_unificado"
+            file="bibo-reporte-unificado.report_operacion_unificado"
+        />
+    </data>
+</odoo>
