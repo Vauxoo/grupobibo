@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_sale_attribute_user,sale_access_attribute_custom_user,sale.model_product_attribute_custom_value,,1,1,1,0

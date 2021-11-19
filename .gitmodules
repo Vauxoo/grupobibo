@@ -1,0 +1,4 @@
+[submodule "bibo"]
+	path = bibo
+	url = git@git.vauxoo.com:vauxoo/bibo.git
+	branch = 12.0
