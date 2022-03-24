@@ -1,7 +1,7 @@
 [submodule "bibo"]
 	path = bibo
 	url = git@git.vauxoo.com:vauxoo/bibo.git
-	branch = 15.0
+	branch = 15.0-test_mrp_payroll_ticket-agarzaarvizu
 [submodule "credit-management"]
 	path = credit-management
     url = git@git.vauxoo.com:vauxoo/credit-management.git
