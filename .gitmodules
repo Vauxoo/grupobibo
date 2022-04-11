@@ -1,4 +1,12 @@
 [submodule "bibo"]
 	path = bibo
 	url = git@git.vauxoo.com:vauxoo/bibo.git
-	branch = 12.0
+	branch = 15.0
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 15.0
