@@ -14,3 +14,7 @@
 	path = account-financial-tools
 	url = git@github.com:Vauxoo/account-financial-tools.git
 	branch = 15.0
+[submodule "performance"]
+	path = performance
+	url = git@git.vauxoo.com:vauxoo/performance.git
+	branch = 15.0
