@@ -18,3 +18,7 @@
 	path = performance
 	url = git@git.vauxoo.com:vauxoo/performance.git
 	branch = 15.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
