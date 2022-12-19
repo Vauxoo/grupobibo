@@ -22,3 +22,8 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 15.0
+
+[submodule "saxomanu/purchase-workflow"]
+	path = saxomanu/purchase-workflow
+	url = git@github.com:saxomanu/purchase-workflow.git
+	branch = 15.0-mig-purchase_reception_status
