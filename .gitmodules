@@ -1,19 +1,28 @@
 [submodule "bibo"]
 	path = bibo
 	url = git@git.vauxoo.com:vauxoo/bibo.git
-	branch = 12.0
+	branch = 15.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:Vauxoo/server-tools.git
+	branch = 15.0
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 15.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = git@github.com:Vauxoo/account-financial-tools.git
+	branch = 15.0
 [submodule "performance"]
 	path = performance
 	url = git@git.vauxoo.com:vauxoo/performance.git
+	branch = 15.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
+	branch = 15.0
+[submodule "sh-tools"]
+	path = sh-tools
+	url = git@git.vauxoo.com:vauxoo/sh-tools.git
+	branch = 15.0
